@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aris-coffe&show_icons=true&locale=en" alt="aris-coffe" /></p>
 
-<p><img align="mid" src="https://github-readme-streak-stats.herokuapp.com/?user=aris-coffe&" alt="aris-coffe" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aris-coffe&" alt="aris-coffe" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aris-coffe&show_icons=true&locale=en&layout=compact" alt="aris-coffe" /></p>
 
