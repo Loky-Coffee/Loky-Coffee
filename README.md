@@ -1,5 +1,5 @@
-# Aris
-<h1 align="center">Hi 👋, I'm Aris</h1>
+# Loky
+<h1 align="center">Hi 👋, I'm Loky</h1>
 <h3 align="center">A developer from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aris-coffe&label=Profile%20views&color=0e75b6&style=flat" alt="aris-coffe" /> </p>
