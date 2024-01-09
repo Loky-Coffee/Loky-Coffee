@@ -23,4 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aris-coffe&show_icons=true&locale=en&layout=compact" alt="aris-coffe" /></p>
 
+[![aalatzas's 42 stats](https://badge.mediaplus.ma/darkblue/aalatzas)](https://github.com/oakoudad/badge42)
+
 
