@@ -11,7 +11,7 @@
 
 <p style="text-align: center;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=loky-coffee&theme=flat" alt="loky-coffee" style="width: 1500px;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=loky-coffee&theme=kimbie_dark&no-bg=true" alt="loky-coffee" style="width: 1500px;" />
     </a>
 </p>
 
