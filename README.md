@@ -9,9 +9,12 @@
     </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loky-coffee&label=Profile%20views&theme=dark&style=flat" alt="loky-coffee" style=width:100px; /> </p>
+<p style="text-align: center;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=loky-coffee&theme=onedark" alt="loky-coffee" style="width: 1500px;" />
+    </a>
+</p>
 
-<p <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loky-coffee&theme=dark" alt="loky-coffee&theme=dark"style=width:1500px; /</p>
 
 <h3 align="center">Connect with me: </h3>
 <p align="left">
@@ -59,9 +62,9 @@
 </p>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=loky-coffee&show_icons=true&locale=en&theme=dark" alt="loky-coffee" style="width: 1500px; width="350" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=loky-coffee&show_icons=true&locale=en&theme=transparent" alt="loky-coffee" style="width: 1500px; width="350" height="250" />
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loky-coffee&show_icons=true&locale=en&layout=compact&theme=dark" alt="loky-coffee" style="width: 1500px; width="550" height="280" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loky-coffee&show_icons=true&locale=en&layout=compact&theme=transparent" alt="loky-coffee" style="width: 1500px; width="550" height="280" />
 </div>
