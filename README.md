@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loky</h1>
 <h3 align="center">A developer from Greece  🌱 I’m currently studying at <strong>42Heilbronn</strong></h3>
 
-<img src="https://badge.mediaplus.ma/greenbinary/aalatzas?UM6P=off" alt="aalatzas's 42 stats" width="1500" height="400" />
+<img src="https://badge.mediaplus.ma/greenbinary/aalatzas?UM6P=off" alt="aalatzas's 42 stats" style="width:1500px; width=350" />
 
 <p style="text-align: center;">
     <a href="https://twitter.com/" target="blank">
@@ -62,9 +62,9 @@
 </p>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=loky-coffee&show_icons=true&locale=en&theme=transparent" alt="loky-coffee" style="width: 1500px; width="350" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=loky-coffee&show_icons=true&locale=en&theme=transparent" alt="loky-coffee" style="width: 1500px; width="350" />
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loky-coffee&show_icons=true&locale=en&layout=compact&theme=transparent" alt="loky-coffee" style="width: 1500px; width="550" height="280" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loky-coffee&show_icons=true&locale=en&layout=compact&theme=transparent" alt="loky-coffee" style="width: 1500px; width="550" />
 </div>
