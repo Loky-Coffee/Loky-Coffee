@@ -1,25 +1,25 @@
 <div style="text-align: center; background-color: #f0f0f0; padding: 20px;">
-    <h1>Hi 👋, I'm Loky</h1>
+    <h1>Hi 👋, I'm Aris</h1>
     <h3>A developer from Greece 🌱 I’m currently studying at <strong>42Heilbronn</strong></h3>
-    <!-- Angepasste Breite für das erste Bild -->
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <img src="https://badge.mediaplus.ma/greenbinary/aalatzas?UM6P=off" alt="aalatzas's 42 stats" style="width:350px; height: 200px; margin-right: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=loky-coffee&show_icons=true&locale=en&theme=transparent" alt="loky-coffee" style="width:350px; height: 200px;" />
-</div>
+    <!-- Angepasste Breite für die Bilder -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=loky-coffee&show_icons=true&locale=en&theme=transparent" alt="loky-coffee" style="max-width: 100%; height: auto; margin: 10px;" />
+    </div>
     <p style="margin-top: 20px;">
-        <a href="https://twitter.com/" target="blank">
+        <a href="https://twitter.com/" target="_blank">
             <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
         </a>
     </p>
     <p style="margin-top: 20px;">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <!-- Breite für die Trophäen angepasst -->
-            <img src="https://github-profile-trophy.vercel.app/?username=loky-coffee&theme=kimbie_dark&no-bg=true" alt="loky-coffee" style="width: 80%; max-width: 800px;" />
+            <!-- Angepasste Breite für die Trophäen -->
+            <img src="https://github-profile-trophy.vercel.app/?username=loky-coffee&theme=kimbie_dark&no-bg=true" alt="loky-coffee" style="width: 100%; max-width: 800px;" />
         </a>
     </p>
     <h3>Connect with me:</h3>
     <h3>Languages and Tools:</h3>
-    <p style="margin-top: 20px;">
+    <!-- Icons in flexibler Anordnung -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/>
         </a>
@@ -56,5 +56,5 @@
         <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="80" height="80"/>
         </a>
-    </p>
     </div>
+</div>
